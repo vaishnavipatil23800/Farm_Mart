@@ -1,0 +1,6 @@
+*.java linguist-language=Java
+*.jsx linguist-language=JavaScript
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
+*.html linguist-language=HTML
+*.xml linguist-language=XML
